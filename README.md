@@ -1,4 +1,4 @@
-# CompareMyself
+# Compare Yourself
 
 This project works as a equating database that works in tandem with AWS services to provide a serverless application that uses DynamoDB, S3, Lambda Functions, APIs to name a few.
 
